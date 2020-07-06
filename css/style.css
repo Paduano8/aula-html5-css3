@@ -1,0 +1,28 @@
+body{
+    background: yellow;
+    margin-left: 100px;
+    margin-right: 200px;
+
+}
+
+header { margin-top: 70px;}
+
+h1 {
+    color: red;
+    font-family: cursive;
+}
+
+h2 {font-family: cursive;}
+
+p{font-size: large;}
+
+footer{margin-bottom: 30px;}
+
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 300px;
+
+}
+
+
